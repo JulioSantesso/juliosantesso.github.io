@@ -13,8 +13,9 @@ header {
   color: #FFF;
   padding-left: 1%;
   height: 50px;
-  left: 0;
-  top: 0;
+  width: 100%;
+  left: 0px;
+  top: 0px;
 }
 
 footer {
@@ -22,8 +23,8 @@ footer {
   color: #FFF;
   padding-left: 1%;
   position: fixed;
-  left: 0;
-  bottom: 0;
+  left: 0px;
+  bottom: 0px;
   width: 100%;
   height: 50px;
 }
