@@ -1,8 +1,19 @@
+body
+{
+  background-color: #EEE;
+}
+
 p {
-    color: #A00;
+    color: #C55;
   }
 
 header {
+  background-color: #000;
+  color: #FFF;
+  padding-left: 5%;
+}
+
+footer {
   background-color: #000;
   color: #FFF;
   padding-left: 5%;

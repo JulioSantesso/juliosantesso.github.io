@@ -1,3 +1,3 @@
 # juliosantesso.github.io
 
-Meu websítio para postar coisas aleatórias!
+Repositório do meu websítio para guardar coisas aleatórias! :)
