@@ -12,7 +12,8 @@ header {
   background-color: #000;
   color: #FFF;
   padding-left: 1%;
-  position: fixed;
+  padding: 0px;
+  position: relative;
   height: 50px;
   width: 100%;
   left: 0px;
